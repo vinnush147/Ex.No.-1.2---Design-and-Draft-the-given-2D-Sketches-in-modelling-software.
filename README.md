@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![vinnush ex 2](https://github.com/vinnush147/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147139234/85362234-8ab0-4d9e-8a76-a7caed1ec694)
+
  
  
  ## RESULT
